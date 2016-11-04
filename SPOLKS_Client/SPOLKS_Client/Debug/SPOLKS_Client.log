@@ -1,0 +1,14 @@
+﻿  Source.cpp
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\sal_supp.h(57): warning C4005: '__useHeader': macro redefinition
+  c:\program files (x86)\microsoft visual studio 12.0\vc\include\sal.h(2886): note: see previous definition of '__useHeader'
+c:\program files (x86)\microsoft sdks\windows\v7.1a\include\specstrings_supp.h(77): warning C4005: '__on_failure': macro redefinition
+  c:\program files (x86)\microsoft visual studio 12.0\vc\include\sal.h(2896): note: see previous definition of '__on_failure'
+d:\spolks_client\spolks_client\source.cpp(178): warning C4018: '>=': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(186): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\spolks_client\spolks_client\source.cpp(190): warning C4018: '<': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(247): warning C4800: 'size_t': forcing value to bool 'true' or 'false' (performance warning)
+d:\spolks_client\spolks_client\source.cpp(320): warning C4018: '<': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(347): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'stat'
+  d:\spolks_client\spolks_client\source.cpp(347): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+d:\spolks_client\spolks_client\source.cpp(393): warning C4018: '<': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(413): warning C4018: '<': signed/unsigned mismatch

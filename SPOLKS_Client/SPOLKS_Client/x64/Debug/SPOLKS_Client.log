@@ -1,0 +1,12 @@
+﻿  Source.cpp
+d:\spolks_client\spolks_client\source.cpp(204): warning C4101: 'set': unreferenced local variable
+d:\spolks_client\spolks_client\source.cpp(309): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\spolks_client\spolks_client\source.cpp(340): warning C4018: '>=': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(350): warning C4018: '<': signed/unsigned mismatch
+d:\spolks_client\spolks_client\source.cpp(401): warning C4129: 'N': unrecognized character escape sequence
+d:\spolks_client\spolks_client\source.cpp(446): warning C4800: 'size_t': forcing value to bool 'true' or 'false' (performance warning)
+d:\spolks_client\spolks_client\source.cpp(535): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\spolks_client\spolks_client\source.cpp(540): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\spolks_client\spolks_client\source.cpp(648): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\spolks_client\spolks_client\source.cpp(650): warning C4715: 'sendRequest': not all control paths return a value
+  SPOLKS_Client.vcxproj -> D:\SPOLKS_Client\x64\Debug\SPOLKS_Client.exe

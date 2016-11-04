@@ -1,5 +1,0 @@
-﻿  main.cpp
-d:\clientapp\clientapp\main.cpp(120): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-d:\clientapp\clientapp\main.cpp(192): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-d:\clientapp\clientapp\main.cpp(239): warning C4715: 'handleResponse': not all control paths return a value
-  clientApp.vcxproj -> D:\clientApp\x64\Debug\clientApp.exe
